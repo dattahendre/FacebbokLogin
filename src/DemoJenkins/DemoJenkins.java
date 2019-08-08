@@ -16,9 +16,9 @@ public class DemoJenkins {
 		driver.close();
 		System.out.println("hello aarya");
 		
+		driver.quit();
 		
-		driver.close();
-		//comments for aal
+		
 		
 	}
 
