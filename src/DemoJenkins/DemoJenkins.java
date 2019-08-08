@@ -15,6 +15,7 @@ public class DemoJenkins {
 		System.out.println("welcome to My jenkins world");
 		driver.close();
 		System.out.println("hello aarya");
+		driver.close();
 		
 		
 	}
