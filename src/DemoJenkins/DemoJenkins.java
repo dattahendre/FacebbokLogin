@@ -17,7 +17,7 @@ public class DemoJenkins {
 		System.out.println("hello aarya");
 		
 		
-		
+		driver.close();
 		
 	}
 
